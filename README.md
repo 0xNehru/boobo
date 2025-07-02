@@ -1,30 +1,3 @@
-<p align="center" margin="20 0"><a href="https://boobo.io/">
-    <img src="assets/boobo_logo.png" alt="logo_header" width="65%" style="max-width:100%;"/></a></p>
-
-<p align="center">
-    <a href="https://github.com/ZupIT/boobo/releases" alt="version">
-        <img src="https://img.shields.io/github/v/release/ZupIT/boobo?label=version"/></a>
-    <a href="https://github.com/ZupIT/boobo/pulse" alt="activity">
-        <img src="https://img.shields.io/github/commit-activity/m/ZupIT/boobo?label=activity"/></a>
-    <a href="https://github.com/ZupIT/boobo/graphs/contributors" alt="contributors">
-        <img src="https://img.shields.io/github/contributors/ZupIT/boobo?label=contributors"/></a>
-    <a href="https://github.com/ZupIT/boobo/actions/workflows/lint.yml" alt="lint">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/boobo/Lint?label=lint"/></a>
-    <a href="https://github.com/ZupIT/boobo/actions/workflows/test.yml" alt="test">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/boobo/Test?label=test"/></a>
-    <a href="https://github.com/ZupIT/boobo/actions/workflows/security.yml" alt="security">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/boobo/Security?label=security"/></a>
-    <a href="https://github.com/ZupIT/boobo/actions/workflows/coverage.yml" alt="coverage">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/boobo/Coverage?label=coverage"/></a>
-    <a href="https://github.com/ZupIT/boobo/actions/workflows/e2e.yml" alt="e2e">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/boobo/e2e?label=e2e"/></a>
-    <a href="https://github.com/ZupIT/boobo/actions/workflows/build.yaml" alt="build">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/boobo/Build?label=build"/></a>
-    <a href="https://opensource.org/licenses/Apache-2.0" alt="license">
-        <img src="https://img.shields.io/badge/license-Apache%202-blue"/></a>
-    <a href="https://bestpractices.coreinfrastructure.org/projects/5146"><img src="https://bestpractices.coreinfrastructure.org/projects/5146/badge"></a>
-</p>
-
 ## **Table of contents**
 ### 1. [**About**](#about)
 ### 2. [**Getting started**](#getting-started)
