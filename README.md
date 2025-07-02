@@ -27,14 +27,6 @@
 boobo is an open source tool that performs a static code analysis to identify security flaws during the development process. Currently, the languages for analysis are C#, Java, Kotlin, Python, Ruby, Golang, Terraform, Javascript, Typescript, Kubernetes, PHP, C, HTML, JSON, Dart, Elixir, Shell, Nginx. 
 The tool has options to search for key leaks and security flaws in all your project's files, as well as in Git history. boobo can be used by the developer through the CLI and by the DevSecOps team on CI /CD mats. 
 
-Check out our [**Documentation**](https://docs.boobo.io/docs/overview/), you will see the complete list of tools and languages boobo performs analysis.
-
-<p align="center" margin="20 0"><img src="assets/boobo-complete-architecture.png" alt="architecture" width="100%" style="max-width:100%;"/></p>
-
-### **See an Output example:**
-
-<img src="assets/usage_boobo.gif" alt="usage_gif" width="100%" style="max-width:100%;"/>
-
 # **Getting started**
 
 ## **Requirements**
@@ -79,13 +71,6 @@ boobo version
 ```bash
 ./boobo.exe version
 ```
-
-### **And more**
-
-- You can find all binaries with versions in our [**releases page**](https://github.com/ZupIT/boobo/releases).
-
-- For more details on how to install, check out the [**documentation**](https://docs.boobo.io/docs/cli/installation) 
-
 
 ## **Usage**
 ### **CLI Usage**
